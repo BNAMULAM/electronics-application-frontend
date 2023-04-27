@@ -1,0 +1,26 @@
+{
+    "addProductType":"http://localhost:9000/add-electronic-product-type",
+    "viewProductType":"http://localhost:9000/get-electronic-product-type-by-id",
+    "viewAllProductType":"http://localhost:9000/get-all-electronic-product-type",
+    "updateProductType":"http://localhost:9000/update-electronic-product-type",
+    "deleteProductType":"http://localhost:9000/delete-electronic-product-type",
+
+    "addProduct":"http://localhost:9000/add-electronic-product",
+    "viewProduct":"http://localhost:9000/get-electronic-product-by-id",
+    "viewAllProduct":"http://localhost:9000/get-all-electronic-product",
+    "updateProduct":"http://localhost:9000/update-electronic-product",
+    "deleteProduct":"http://localhost:9000/delete-electronic-product",
+
+    "customerRegister":"http://localhost:9000/add-customer",
+    "adminRegister":"http://localhost:9000/add-manager",
+    "login":"http://localhost:9000/login",
+
+    "getCustomerByUserName":"http://localhost:9000/get-customer-by-userName",
+    "getCustomerByUserId":"http://localhost:9000/get-customer-by-id",
+    "addCustOrder":"http://localhost:9000/add-customer-order",
+
+    "viewBasketById":"http://localhost:9000/get-basket-by-id",
+    "viewAllBasket":"http://localhost:9000/get-all-baskets",
+    "updateBasket":"http://localhost:9000/update-basket",
+    "addOrder":"http://localhost:9000/add-product-order"
+}
